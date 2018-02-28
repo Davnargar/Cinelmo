@@ -1,0 +1,5 @@
+com\mycompany\cinelmo\Socio_.class
+com\mycompany\cinelmo\service\SocioFacadeREST.class
+com\mycompany\cinelmo\Socio.class
+com\mycompany\cinelmo\service\ApplicationConfig.class
+com\mycompany\cinelmo\service\AbstractFacade.class
